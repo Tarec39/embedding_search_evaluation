@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@vercel/blob": "^2.0.0",
-    "next": "^14.2.33",
+    "next": "^16.1.5",
     "openai": "^6.5.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
